@@ -33,10 +33,6 @@
   "bin": {
     "vendure": "cli/vendure-cli.js"
   },
-  "files": [
-    "dist/**/*",
-    "cli/**/*"
-  ],
   "dependencies": {
     "@graphql-tools/stitch": "^7.5.3",
     "@nestjs/common": "7.6.17",
